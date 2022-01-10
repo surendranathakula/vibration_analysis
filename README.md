@@ -1,2 +1,2 @@
 # vibration_analysis
-anomaly detection
+anomaly detection!
